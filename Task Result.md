@@ -4,20 +4,18 @@
 
 I use the following technologies / frameworks in my project:
 
-- JavaScript / jQuery
-- PHP / Symfony
-- ...
-
-I chose jQuery because ...
+* I used HTML to create a static web page
+* I used CSS to style the HTML elements
+* I used Javascript to create and handle the events on the DOM. For example, submit, doubleclick and click events. Also to create
+  the grids dynamically. Javascript is the best frontend web technology to interact with the web apge or DOM.
 
 ## Used 3rd Party Libraries
 
-I use the following 3rd party libraries in my project: (if none, remove the table and explain why)
+I used the following 3rd party libraries in my project:
 
-Name | Reason
+html2canvas library | To convert HTML element into an image
 --- | ---
-[moment.js](https://momentjs.com/) | For calculating dates and converting formats.
-[Bootstrap](https://getbootstrap.com/) | Simple RWD framework for designing the front end.
+[html2canvas.js](https://html2canvas.hertzen.com/) | Through this library I converted HTML table into an image with .png extention and user can download their pixel art by click on the following download button.
 
 ## Installation / Run
 
